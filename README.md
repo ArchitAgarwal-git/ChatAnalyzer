@@ -42,7 +42,7 @@ It helps you explore statistics, activity patterns, most used words, emoji analy
 ---
 
 ## 📂 Project Structure
-app.py # Main Streamlit app
+- app.py # Main Streamlit app
 - helper.py # Helper functions for analysis
 - preprocessor.py # Preprocess WhatsApp chat text
 - requirements.txt # Dependencies
